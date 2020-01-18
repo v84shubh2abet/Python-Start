@@ -6,6 +6,8 @@ bit.ly/pyconids
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
+https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science
+
 
 
 
