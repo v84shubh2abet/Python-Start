@@ -12,6 +12,8 @@ https://towardsdatascience.com/how-to-flaunt-your-passion-for-analytics-in-data-
 
 https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d
 
+https://courses.cs.washington.edu/courses/cse442/17au/
+
 
 CAVEAT:
 
