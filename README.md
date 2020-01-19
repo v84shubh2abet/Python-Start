@@ -8,7 +8,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science
 
+https://towardsdatascience.com/how-to-flaunt-your-passion-for-analytics-in-data-science-job-interviews-2cb432cc3d3d
 
+https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d
 
 
 CAVEAT:
